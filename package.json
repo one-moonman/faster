@@ -18,5 +18,9 @@
     "url": "https://github.com/one-moonman/faster/issues"
   },
   "homepage": "https://github.com/one-moonman/faster#readme",
-  "dependencies": {}
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "commander": "^9.4.1",
+    "ora": "^6.1.2"
+  }
 }
